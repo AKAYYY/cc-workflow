@@ -1,0 +1,11 @@
+{
+  "name": "hanzo",
+  "owner": { "name": "Hanzo" },
+  "plugins": [
+    {
+      "name": "hanzo",
+      "source": "./",
+      "description": "Tous les skills perso de Hanzo, centralisés dans un seul plugin."
+    }
+  ]
+}
